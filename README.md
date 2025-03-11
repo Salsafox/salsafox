@@ -1,4 +1,7 @@
-## Hi there 👋
+[![Banner](https://raw.githubusercontent.com/Salsafox/salsafox/refs/heads/main/media/cute_banner.png 'Banner')](https://github.com/Salsafox)
+
+# Sobre mí
+Honestamente, no tengo ni idea de qué más poner aquí lol ¯\\\_(⊙︿⊙)_/¯
 
 <!--
 **Salsafox/salsafox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
